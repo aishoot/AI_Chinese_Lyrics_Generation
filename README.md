@@ -2,6 +2,12 @@
 <img src="music.jpg"/>
 Artificial intelligence has already been used to create a short film, snippets of angst-ridden poetry, and even the odd avant-garde melody.
 
+## Requirements
+hhh
+
+# Usage
+hhh
+
 ## File Description
 1-word_cloud_results: the word cloud picture of JJ Lin's (林俊杰 in Chinese) lyrics downloaded from [Netease Cloud Music](https://music.163.com).
 
@@ -12,3 +18,5 @@ Artificial intelligence has already been used to create a short film, snippets o
 ## References
 * [Download lyrics from QQ music](https://github.com/qwertyyb/lyricswordcloud)
 * [Download lyrics from the NetEase's cloud music](https://github.com/2niuhe/lyrics_wordcloud)
+* [CharRNN-LRC](https://github.com/jozhn/CharRNN-LRC)
+* [Tensorflow lyrics generation](http://leix.me/2016/11/28/tensorflow-lyrics-generation/)
