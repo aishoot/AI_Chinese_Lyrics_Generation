@@ -4,7 +4,7 @@
 
 ## Word Cloud Results
 <img src="word_cloud_results/WordCloudDefautColors2.png"/>
-<img src="width="75%" height="75%" word_cloud_results/WordCloudDefautColors.png"/>
+<img "width="75%" height="75%" src="word_cloud_results/WordCloudDefautColors.png"/>
 
 
 ## References
