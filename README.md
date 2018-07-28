@@ -1,6 +1,8 @@
 # AI_Generate_Chinese_Lyrics
 <img src="music.jpg"/>
 
+## File Description
+1-word_cloud_results: the word cloud picture of JJ Lin's (林俊杰 in Chinese) lyrics downloaded from [Netease Cloud Music](https://music.163.com).
 
 ## Word Cloud Results
 <img src="word_cloud_results/WordCloudDefautColors2.png"/>
