@@ -3,7 +3,7 @@
 Artificial intelligence has already been used to create a short film, snippets of angst-ridden poetry, and even the odd avant-garde melody.
 
 ## Requirements
-Anaconda3(Python3.5+)
+Anaconda3 (Python3.5+)
 
 # Usage
 ```bash
